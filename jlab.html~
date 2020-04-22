@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>LGBTIQQAP+ Physicists</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<meta name="google-site-verification" content="32Cmts0ybZkNMWsC2T6BLecUP5wLWkigCVmhAREq9Sw" />
+		<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-38070063-1']);
+		_gaq.push(['_setDomainName', 'lgbtphysicists.org']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];	s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+
+</head>
+<body>
+
+<div id="container">
+<div id="line1">Open Source Template by 
+
+<!-- Please leave this if you use our template. Thank you -->
+<a href="http://www.darjanpanic.com" target="_blank" title="Freelance Graphic artist">Darjan Panic</a> &amp; <a href="http://www.briangreens.com" target="_blank">Brian Green</a>
+<!-- Please leave this if you use our template. Thank you --></div>
+<div id="line2"> </div>
+<div style="clear: both"></div>
+<div id="name">LGBTIQQAP+ Physicists</div>
+
+	<div id="left">
+
+	</div>
+	
+<div id="center">
+	
+	<div id="menu">
+ <p><a href="./index.html">Home</a></p>
+ <p><a href="./about.html">About</a></p>
+ <p><a href="./events.html">Events</a></p>
+ <p><a href="./projects.html">Projects</a></p>
+ <p><a href="./outlist.html">OutList</a></p>
+ <p><a href="./links.html">Links</a></p>
+ <p><a href="./resources.html">Resources</a></p>
+ <p><a href="mailto:info@lgbtphysicists.org">Contact</a></p>
+ </div>
+	
+  </div>
+  
+
+
+	<div id="right">
+	  
+	  	    <div id="content">
+	  	      
+	 <h1 class="storytitle">JLab Stuff</h1>
+	 <p>
+	 &rarr; Still working on analyzing the Q2=0.5 Vertical data -- hoping to have it mostly done by the end of this week to be included in the poster by next week. Will be sending around e-mail updates as it is completed.<br>
+	 <br>
+	 &rarr; Speaking of my poster, <a href="images/ElenaLong.pdf">you can find a *.pdf of it here with a space if I can finish the Vertical SSA Q2=0.5 in time</a> and <a href="images/ElenaLong_without_Q2_05.pdf">another if I can't get the Q2=0.5 in time</a>. Please read through it and let me know any comments, questions, feedback, and criticism.<br>
+	 <br>
+	 
+	 
+	 </p> 
+<table border=0 style="background-color: #fff; padding: 5px;" cellspacing=0>
+  <tr><td>
+  <img src="http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif"
+         height=30 width=140 alt="Google Groups">
+  </td></tr>
+  <tr><td style="padding-left: 5px">
+  <b>Subscribe to LGBTIQQAP+ Physicists</b>
+  </td></tr>
+  <form action="http://groups.google.com/group/lgbtphysicists/boxsubscribe">
+  <tr><td style="padding-left: 5px;">
+  Email: <input type=text name=email>
+  <input type=submit name="sub" value="Subscribe">
+  </td></tr>
+</form>
+<tr><td align=right>
+  <a href="http://groups.google.com/group/lgbtphysicists">Visit this group</a>
+</td></tr>
+</table>
+
+
+	 <p>&nbsp;</p>
+      </div>
+
+
+	</div>
+
+
+<div style="clear: both"></div>
+<div id="line4">E-mail us at <a href="mailto:info@lgbtphysicists.org">info@lgbtphysicists.org</div>
+<div id="right"><a href="https://www.facebook.com/home.php?sk=group_120114488063578&ap=1"><img src="images/facebook.png"></a></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+To: {{goodemail}}
+
+Subject: OutList Information Check
+
+Good morning,
+
+On the lgbt+physicists OutList, we have the following information listed for you:
+
+Name: {{firstName}} {{lastName}}
+
+Position: {{pos}}
+
+Department: {{dept}}
+
+Institution: {{inst}}
+
+Location: {{loc}}
+
+Website: {{web}}
+
+Public E-mail: {{email}}
+
+Permanent (Non-Public) E-mail: {{goodemail}}
+
+If any of this information needs to be up-dated, please do so using the form linked here, making sure to check "Update Request" http://lgbtphysicists.org/outlist_request.html
+
+If you would like to be removed from the OutList, please use the same link but click "Removal Request"
+
+Thank you,
+Ells Long & the lgbt+physicists Crew

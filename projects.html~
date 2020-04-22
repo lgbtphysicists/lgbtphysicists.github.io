@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>lgbt+physicists - Projects</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+		<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-38070063-1']);
+		_gaq.push(['_setDomainName', 'lgbtphysicists.org']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];	s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+
+</head>
+<body>
+
+<div id="container">
+<div id="line1">Open Source Template by 
+
+<!-- Please leave this if you use our template. Thank you -->
+<a href="http://www.darjanpanic.com" target="_blank" title="Freelance Graphic artist">Darjan Panic</a> &amp; <a href="http://www.briangreens.com" target="_blank">Brian Green</a>
+<!-- Please leave this if you use our template. Thank you --></div>
+<div id="line2"> </div>
+<div style="clear: both"></div>
+<div id="name"><a href="./index.html"><span style="color:#FE2EF7"><b>lgbt+</span><span style="color:#000000">physicists</a></b><br><br><span style="color:#000000">Projects</span></div>
+
+	<div id="left">
+
+	</div>
+	
+<div id="center">
+	
+	<div id="menu">
+<!--  <p><a href="./index.html">Home</a></p> -->
+ <p><a href="./about.html">About</a></p>
+ <p><a href="./excellence.html">Awards</a></p>
+ <p><a href="./projects.html">Projects</a></p>
+ <p><a href="./outlist.html">OutList</a></p>
+ <p><a href="./physics_resources.html">Physics Resources</a></p>
+ <p><a href="./other_resources.html">Other LGBT+ Resources</a></p>
+ <p><a href="./media.html">Talks, Articles, and Media</a></p>
+ <p><a href="https://drive.google.com/folderview?id=0B2ZMZ5QgEB0ab1lScGxOYmZieEU&usp=sharing#list">Meeting Minutes</a></p>
+ <p><a href="http://blog.lgbtphysicists.org">Blog</a></p>
+ <p><a href="mailto:info@lgbtphysicists.org">Contact</a></p>
+ </div>
+	
+  </div>
+  
+
+
+	<div id="right">
+	  
+	  	    <div id="content">
+	  	      
+<!--	 <h1 class="storytitle">Projects</h1> -->
+	 	<p><h3><a href="https://arxiv.org/abs/1804.08406">LGBT+ Inclusivity in Physics and Astronomy: A Best Practices Guide (2nd Ed., 2018)</a></h3></p>
+		<p>We present the second edition of a Best Practices Guide for academic departments and other institutions striving to create more inclusive environments for physicists and astronomers in the LGBT+ community. Our recommendations incorporate new research since the original, 2014 edition, and are designed for anyone who wishes to become aware of -- and help mitigate -- the extra burdens that face members of the LGBT+ community in the physical sciences.</p>
+		<hr>	 	
+		<p><h3><a href="https://www.aps.org/programs/lgbt/">LGBT Climate in Physics Report</a></h3></p>
+		<p>In response to our charge, the Ad-Hoc Committee on LGBT Issues (C-LGBT) reviewed the status of LGBT physicists to assess the barriers to full inclusion within the physics community. Input was obtained through focus groups held at APS meetings, a detailed climate survey, and a set of in-depth interviews with individuals who self-identify as LGBT. Committee members also reviewed aspects of law and policy that were deemed relevant, and drew on their own experiences and observations in building a community of support of LGBT physicists. Here we briefly summarize the findings and recommendations. These recommendations naturally fit with the broader goals of promoting participation within the physics enterprise by a diverse membership and ensuring equal opportunity. These are goals clearly expressed in the mission statement of APS, as well as its policy on equal professional opportunity.</p> 
+		<p>Finding 1) LGBT Physicists have faced uneven protection and support from legislation and policies.</p>
+		<p>Finding 2) The overall climate experienced by LGBT physicists was highly variable.</p>
+		<p>Finding 3) In many physics environments, social norms established expectations of closeted behavior.</P>
+		<p>Finding 4) Isolation was a common theme for many LGBT physicists.</p>
+		<p>Finding 5) A significant fraction of LGBT physicists have experienced or observed exclusionary behavior.</p>
+		<p>Finding 6) LGBT physicists with addititional marginalized identities faced greater levels of discrimination.</p>
+		<p>Finding 7) Transgender and gender-nonconforming physicists encoutered the most hostile environments.</p>
+		<p>Finding 8) Many LGBT physicists were at risk for leaving their workplace or school.</p>
+		<p>Finding 9) LGBT physicists reported trouble identifying allies to help mitigate isolation, exclusion, or marginalization.</p>
+		<hr>
+		<p><h3><a href="./events.html">Networking Events</a></h3></p>
+		<p>One of the items deemed as necessary from our members is the ability to network with one another. The majority of our members weren't even aware of another LGBT+ person in physics before they joined this group. Since 2010, we have been organizing sessions at the APS March and April meetings. As we move forward, we're looking at expanding our presence into other conferences. If you are interested in helping create such sessions, please contact us at <a href="mailto:info@lgbtphysicists.org">info@lgbtphysicists.org</a>.</p>
+    	<hr> 
+	<p><h3><a href="./files/BestPracticesGuide.pdf">Best Practices Guide (1st Ed., 2014)</a></h3></p>
+		<p>When physicists talk about issues related to diversity or broadening participation in the field, the focus, thus far, has typically been on creating support mechanisms for women or people of color.  However, physicists who identify as LGBT+ are also a minority within the physics community and can also find themselves marginalized in certain ways.  This document, written by <span style="color:#FE2EF7"><b>lgbt+</span><span style="color:#000000">physicists</a></b> and WGLE, aims to highlight opportunities for making the physics workplace more inclusive for LGBT+ scientists.</p>
+		<p>Best practices for the inclusion of LGBT+ people on campus can be found in several places. In the first portion, we limit ourselves to a set of recommendations that are particularly relevant to physicists and physics department chairs (as opposed to general university administrators). After a brief glossary of terms, we make both short-term and long-term department-level suggestions, followed by several recommendations for university-level policies that may guide conversations with institutional administrators. A list of useful external resources is available at the end of the document, along with the author list. Policies that can be implemented rapidly are flagged with stars.</p>
+		<hr>
+	 	<p><h3><a href="./outlist.html">OutList for LGBT+ Physicists and Allies</a></h3></p>
+		<p>The ability to pursue one's scientific work in a safe and supportive environment that is free from prejudice and discrimination is a basic human right.</p>
+		<p>As professional physicists at various career stages, we reaffirm this right for all members of the physics community. Further, as "out" physicists and allies, we publicly commit ourselves to building a scientific environment that is free from all forms of prejudice and discrimination, and in particular we commit ourselves to ensuring that this basic scientific right is upheld for members of our community who are also sexual minorities and/or gender minorities.</p>
+		<p>We further would like to invite the community of physicists into a conversation acknowledging the contributions from those who are sexual and gender minorities and discussing how to eliminate prejudice. We welcome allies of any gender identity or sexual orientation who seek to stand with their colleagues in this quest for basic human rights and to advocate for their concerns.</p>
+		<p>If you are interested in being on the OutList, as either an LGBT+ Physicist or an Ally, please e-mail <a href="mailto:info@lgbtphysicists.org">info@lgbtphysicists.org</a> with your name, institution, position, location, and contact information. Please indicate which list you would like to be on. </p>
+	 	<hr>
+		<p><h3><a href="http://meetings.aps.org/Meeting/MAR12/sessionindex2/?SessionEventID=168349">2012 APS March Meeting Session<br>Sexual and Gender Diversity Issues in Physics</a></h3></p>
+		<p>LGBT+ Physicists organizes the first ever session dedicated to sexual and gender minority issues in physics at the 2012 APS March Meeting. Many of the talks can be found in the link above. In addition, a summary and feedback from the session was put together in an ArXiv paper, <a href="http://arxiv.org/abs/1206.4112">Gender and Sexual Diversity Issues in Physics: The Audience Speaks</a> which helped to focus LGBT+ Physicists into 2013 and beyond.</p>
+		<hr>
+		<p><h3><a href="http://groups.google.com/group/lgbtphysicists">Google Group</a></h3></p>
+		<p>We use a Google Group list serv to communicate with our members. By joining, you'll gain access to updates in meeting mintues, status of projects being worked on, and the ability to network with other physicists who are both LGBT+ and allies.</p>
+		<p>If you would like to be a part of the Google Group e-mailing list please sign up below.<table border=0 style="background-color: #fff; padding: 5px;" cellspacing=0>
+  <tr><td>
+<!  <img src="http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif"
+         height=30 width=140 alt="Google Groups">
+  </td></tr>
+  <tr><td style="padding-left: 5px">
+  <b>Subscribe to <span style="color:#FE2EF7"><b>lgbt+</span><span style="color:#000000">physicists</a></b>
+  </td></tr>
+  <form action="http://groups.google.com/group/lgbtphysicists/boxsubscribe">
+  <tr><td style="padding-left: 5px;">
+  Email: <input type=text name=email>
+  <input type=submit name="sub" value="Subscribe">
+  </td></tr>
+</form>
+<tr><td align=right>
+  <a href="http://groups.google.com/group/lgbtphysicists">Visit this group</a>
+</td></tr>
+</table>
+	 <p>If you have any ideas for projects that we could do, please e-mail us at <a href="mailto:info@lgbtphysicists.org">info@lgbtphysicists.org</a>.
+
+	 <p>&nbsp;</p>
+      </div>
+
+
+	</div>
+
+
+<div style="clear: both"></div>
+
+<div id="line4">E-mail us at <a href="mailto:info@lgbtphysicists.org">info@lgbtphysicists.org</div>
+<div id="right"><a href="https://www.facebook.com/home.php?sk=group_120114488063578&ap=1"><img src="images/facebook.png"></a></div>
+</div>
+
+</body>
+</html>

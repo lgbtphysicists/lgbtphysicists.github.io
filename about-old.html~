@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>LGBTIQQAP+ Physicists - About</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<div id="container">
+<div id="line1">Open Source Template by 
+
+<!-- Please leave this if you use our template. Thank you -->
+<a href="http://www.darjanpanic.com" target="_blank" title="Freelance Graphic artist">Darjan Panic</a> &amp; <a href="http://www.briangreens.com" target="_blank">Brian Green</a>
+<!-- Please leave this if you use our template. Thank you --></div>
+<div id="line2"> </div>
+<div style="clear: both"></div>
+<div id="name">About</div>
+
+	<div id="left">
+
+	</div>
+	
+<div id="center">
+	
+	<div id="menu">
+ <p><a href="./index.html">Home</a></p>
+ <p><a href="./about.html">About</a></p>
+ <p><a href="./events.html">Events</a></p>
+ <p><a href="./projects.html">Projects</a></p>
+ <p><a href="./outlist.html">OutList</a></p>
+ <p><a href="./links.html">Links</a></p>
+ <p><a href="./resources.html">Resources</a></p>
+ <p><a href="mailto:info@lgbtphysicists.org">Contact</a></p>
+ </div>
+	
+  </div>
+  
+
+
+	<div id="right">
+	  
+	  	    <div id="content">
+	  	      
+	 <h1 class="storytitle">About Us</h1>
+	 <p>This website was started by Elena "LLLLL" Long, a graduate student in physics who is not straight. In 2009, during an <a href="http://www.aps.org">APS meeting</a>, ze attended a luncheon hosted by the <a href="http://www.aps.org/about/governance/committees/cswp/index.cfm">Committee on the Status of Women in Physics</a> and asked about resources available to LGBTIQQAP+ physicists. The reply was a lot of blank stares followed by people saying "We never thought of that." 
+	 </p> 
+	 <p>Following the meeting, LLLLL (pronounced 'ells') met and talked with various LGBT+ physicists as well as searched for resources (the very few found, none physics-specific, can be found in the <a href="./links.html">links section</a>). Suggestions were made to start a website as an on-line beacon to the so-far invisible community as well as an <a href="mailto:info@lgbtphysicists.org">e-mail address</a> to begin communication.
+	 </p>
+	 <p>Hir hope for the future is to have a gathering of LGBTIQQAP+ and friendly straight, cisgender physicists (both in person during conferences and online through mailing lists) where we can discuss issues related to our community (employment protections covering sexual orientation, gender identity, and gender expression; insurance options that include partner benefits and transgender related health care; etc.) and ways to make the physics field more progressive and inclusive.
+	 </p>
+	 <p>If you would like to help in this endeavor, please e-mail us at <a href="mailto:info@lgbtphysicists.org">info@lgbtphysicists.org</a>. 
+	 </p>
+	 <p>&nbsp;</p>
+      </div>
+
+
+	</div>
+
+
+<div style="clear: both"></div>
+
+<div id="line4">E-mail us at <a href="mailto:info@lgbtphysicists.org">info@lgbtphysicists.org</a></div>
+<div id="right"><a href="https://www.facebook.com/home.php?sk=group_120114488063578&ap=1"><img src="images/facebook.png"></a></div>
+
+</div>
+
+</body>
+</html>

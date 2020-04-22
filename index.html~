@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>lgbt+physicists</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<meta name="google-site-verification" content="32Cmts0ybZkNMWsC2T6BLecUP5wLWkigCVmhAREq9Sw" />
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-38070063-1']);
+		_gaq.push(['_setDomainName', 'lgbtphysicists.org']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0];	s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+
+</head>
+<body>
+
+<div id="container">
+<div id="line1">Open Source Template by 
+
+<!-- Please leave this if you use our template. Thank you -->
+<a href="http://www.darjanpanic.com" target="_blank" title="Freelance Graphic artist">Darjan Panic</a> &amp; <a href="http://www.briangreens.com" target="_blank">Brian Green</a>
+<!-- Please leave this if you use our template. Thank you --></div>
+<div id="line2"> </div>
+<div style="clear: both"></div>
+<div id="name"><a href="./index.html"><span style="color:#FE2EF7"><b>lgbt+</span><span style="color:#000000">physicists</a></b><br><span style="color:#000000">Serving Sexual and Gender <br>Minorities in Physics</span></div>
+
+	<div id="left">
+
+	</div>
+	
+<div id="center">
+	
+	<div id="menu">
+<!-- <p><a href="./index.html">Home</a></p> -->
+ <p><a href="./about.html">About</a></p>
+ <p><a href="./excellence.html">Awards</a></p>
+ <p><a href="./projects.html">Projects</a></p>
+ <p><a href="./outlist.html">OutList</a></p>
+ <p><a href="./physics_resources.html">Physics Resources</a></p>
+ <p><a href="./other_resources.html">Other LGBT+ Resources</a></p>
+ <p><a href="./media.html">Talks, Articles, and Media</a></p>
+ <p><a href="https://drive.google.com/folderview?id=0B2ZMZ5QgEB0ab1lScGxOYmZieEU&usp=sharing#list">Meeting Minutes</a></p>
+<p><a href="http://blog.lgbtphysicists.org">Blog</a></p>
+ <p><a href="mailto:info@lgbtphysicists.org">Contact</a></p>
+ </div>
+	
+  </div>
+  
+
+
+	<div id="right">
+	  
+	  	    <div id="content">
+	  	      
+<!---	 <h1 class="storytitle">Welcome, LGBTIQQAP+ and Friendly Physicists!</h1> --->
+	 <p>Welcome to the first website for lesbian, gay, bisexual, transgender, intersex, queer, questioning, asexual, pansexual, not-cisgender and not-straight (as well as friendly cis and straight) physicists. This resource website has come out of a need for resources for gender and sexual minority (GSM) physicists. We serve as a networking resource for young GSM physicists and students to find mentors, a place to find resources for laboratories and universities to make their physics departments more GSM friendly, as well as a hosting of information of get togethers of GSM physicists and allies.   
+	 </p>
+	 <p>In collaboration with the <a href="http://aas.org/">AAS</a> <a href="http://sgma.aas.org/">Committee for Sexual-Orientation and Gender Minorities in Astronomy</a>, we are proud to announce a major revision of our Best Practices Guide, now titled <a href="https://arxiv.org/abs/1804.08406">LGBT+ Inclusivity in Physics and Astronomy: A Best Practices Guide</a>! It includes a list of suggestions that your department can enact to make it more inclusive and welcoming towards LGBT+ students and faculty.
+	 </p>
+	 <center> <a href="https://arxiv.org/abs/1804.08406"><img src="images/bpg-2ed.png"></a></center>
+	<p>Many of our organizers were members on the <a href="http://www.aps.org/programs/lgbt/">APS ad hoc Committee on LGBT Issues (C-LGBT)</a>, which released it's <a href="http://www.aps.org/programs/lgbt/upload/LGBTClimateInPhysicsReport.pdf">LGBT Climate in Physics</a> report in March of 2016. 
+	<a href="https://twitter.com/APSphysics/status/709768625586966529"><img width="300" src="https://pbs.twimg.com/media/CdmazelUIAAGgAc.jpg"></a><a href="https://twitter.com/APSphysics/status/709766109239451650"><img width="300" src="https://pbs.twimg.com/media/CdmYg9TUAAAEs17.jpg"></a>
+	 </p>
+	 <p>If you would like to join our mailing list, please join the the Google Group below. If you are a physicist who is either an out GSM or ally, please consider <a href="mailto:info@lgbtphysicists.org">e-mailing us</a> so that we can add you our <a href="./outlist.html">OutList</a>, which will help other physicists network with you. If you would like to offer your skills and talents towards this cause, please <a href="mailto:info@lgbtphysicists.org">contact us</a>.
+	 </p>
+	 <p>We look forward to meeting you and continuing to build this community!
+	 </p> 
+<table border=0 style="background-color: #fff; padding: 5px;" cellspacing=0>
+  <tr><td>
+<!  <img src="http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif"
+         height=30 width=140 alt="Google Groups">
+  </td></tr>
+  <tr><td style="padding-left: 5px">
+  <b>Subscribe to <span style="color:#FE2EF7"><b>lgbt+</span><span style="color:#000000">physicists</a></b></span>
+  </td></tr>
+  <form action="http://groups.google.com/group/lgbtphysicists/boxsubscribe">
+  <tr><td style="padding-left: 5px;">
+  Email: <input type=text name=email>
+  <input type=submit name="sub" value="Subscribe">
+  </td></tr>
+</form>
+<tr><td align=right>
+  <a href="http://groups.google.com/group/lgbtphysicists">Visit this group</a>
+</td></tr>
+</table>
+
+
+	 <p>&nbsp;</p>
+      </div>
+
+
+	</div>
+
+
+<div style="clear: both"></div>
+<div id="line4">E-mail us at <a href="mailto:info@lgbtphysicists.org">info@lgbtphysicists.org</div>
+<div id="right"><a href="https://www.facebook.com/home.php?sk=group_120114488063578&ap=1"><img src="images/facebook.png"></a></div>
+</div>
+</body>
+</html>
